@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @emre-ulus
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics, Python, SQL, and R.
-- 📫 Please do not hesitate to reach me via Linkedin and Twitter.
+- 👋 Hi, I’m Emre Ulus
+- I’m currently learning Data Analytics, Python, SQL, and R.
+- Please do not hesitate to reach me.
 
 <!---
 emre-ulus/emre-ulus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
